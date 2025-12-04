@@ -1,2 +1,5 @@
-# csd-380
-This repository is for all of my projects from my DevOps course.
+# csd-380 DevOps
+This repository contains all my projects from the DevOps course.
+## Contributors
+*Jackson Webster
+*Dr. Toni Farley
